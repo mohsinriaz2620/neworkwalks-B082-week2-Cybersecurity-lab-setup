@@ -1,7 +1,7 @@
 # Week 2 – Footprinting (GHDB) & Network Scanning (Zenmap)
 
 **Cybersecurity & Ethical Hacking Program — NetworkWalks Academy (Batch B082)**
-**Author:** Mohsin
+**Author:** Muhammad Mohsin
 **Modules:** W2-PM2 (Footprinting & Reconnaissance with GHDB) · W2-PM5 (Network Scanning with Zenmap)
 
 ---
